@@ -64,7 +64,7 @@
 			<artifactId>tomcat-jasper</artifactId>
 			<version>9.0.10</version>
 		</dependency>
-		<!-- JSTL tag lib -->
+		<!-- JSTL tag lib test-->
 		<dependency>
 			<groupId>javax.servlet.jsp.jstl</groupId>
 			<artifactId>javax.servlet.jsp.jstl-api</artifactId>
